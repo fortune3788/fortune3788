@@ -1,6 +1,6 @@
 ## Hello Sekai 👋
 
-[![fortune0628's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/fortune0628)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![fortune0628's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/fortune0628?theme=darcula&show_icons=true)](https://github.com/iwbc-mzk/atcoder-readme-stats)
 
 <!--
 **fortune3788/fortune3788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
